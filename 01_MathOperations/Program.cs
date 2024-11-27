@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        // // Создание статического класса
         static void Main(string[] args)
         {
             double r = 5.2;
