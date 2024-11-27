@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_MathOperations", "01_MathOperations\01_MathOperations.csproj", "{7357F536-E448-4D58-AEC6-B415804D347E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ClassInstance", "02_ClassInstance\02_ClassInstance.csproj", "{A778B20C-F608-4A34-B310-939FE0E8F19A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_LogConnection", "04_LogConnection\04_LogConnection.csproj", "{82B80240-1872-422E-B503-F849094C5482}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7357F536-E448-4D58-AEC6-B415804D347E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7357F536-E448-4D58-AEC6-B415804D347E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7357F536-E448-4D58-AEC6-B415804D347E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A778B20C-F608-4A34-B310-939FE0E8F19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A778B20C-F608-4A34-B310-939FE0E8F19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A778B20C-F608-4A34-B310-939FE0E8F19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A778B20C-F608-4A34-B310-939FE0E8F19A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B80240-1872-422E-B503-F849094C5482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B80240-1872-422E-B503-F849094C5482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B80240-1872-422E-B503-F849094C5482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B80240-1872-422E-B503-F849094C5482}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
