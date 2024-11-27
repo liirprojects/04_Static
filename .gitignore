@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.cache
+*.log
+*.tmp
+*.exe
+*.dll
+*.pdb
+*.GeneratedMSBuildEditorConfig.editorconfig
