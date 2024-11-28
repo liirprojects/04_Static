@@ -13,7 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_PointsDistance", "05_Poi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_DateManipulations", "07_DateManipulations\07_DateManipulations.csproj", "{8A3BD59E-D8B0-432F-AED1-E215BB6DC9D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCache", "DataCache\DataCache.csproj", "{9C698390-F0E8-4DF4-9021-45F12E11ED12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_DataCache", "DataCache\08_DataCache.csproj", "{9C698390-F0E8-4DF4-9021-45F12E11ED12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Extensions", "09_Extensions\09_Extensions.csproj", "{39CEF84B-93CB-4285-BDA5-EAEFC4870F5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{9C698390-F0E8-4DF4-9021-45F12E11ED12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C698390-F0E8-4DF4-9021-45F12E11ED12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C698390-F0E8-4DF4-9021-45F12E11ED12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39CEF84B-93CB-4285-BDA5-EAEFC4870F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CEF84B-93CB-4285-BDA5-EAEFC4870F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CEF84B-93CB-4285-BDA5-EAEFC4870F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CEF84B-93CB-4285-BDA5-EAEFC4870F5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
